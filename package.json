@@ -1,0 +1,15 @@
+{
+  "name": "my-code-store",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gershonv/my-code-store.git",
+  "author": "guosw <guoshaowei@pvmedtech.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "nodemon": "^1.19.1"
+  },
+  "scripts": {
+    "client": "cd client && yarn start"
+  }
+}
